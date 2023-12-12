@@ -236,8 +236,8 @@ Berkas-berkas laporan tersebut dapat dikumpulkan dan diberikan ke _tools_ lain.
 Sebagai contoh, versi _upstream_ (asli) proyek ini memiliki alur CI/CD yang melaporkan hasil _test_ serta analisis kode ke _tools_ bernama [SonarCloud](https://sonarcloud.io).
 Hasil analisis SonarCloud versi _upstream_ dapat dilihat melalui laman SonarCloud yang dapat diakses dari kedua _badge_ berikut:
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=addianto_sitodo&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=addianto_sitodo)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=addianto_sitodo&metric=coverage)](https://sonarcloud.io/summary/new_code?id=addianto_sitodo)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=DulsRhmn_testDuls&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=DulsRhmn_testDuls)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=DulsRhmn_testDuls&metric=coverage)](https://sonarcloud.io/summary/new_code?id=DulsRhmn_testDuls)
 
 Selain itu, laporan-laporan hasil _test_ juga dipublikasikan sebagai _static site_ pada GitHub Pages.
 Contoh hasil _static site_ versi asli dapat dilihat di tautan berikut: [Sitodo Test Reports](https://addianto.github.io/sitodo/)
